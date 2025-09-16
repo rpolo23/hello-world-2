@@ -1,4 +1,4 @@
-# hello-world-2# Hello World
+# Hello World
 
 Hi! I’m Rudy Polo. This repo is for practicing the GitHub flow:
 
